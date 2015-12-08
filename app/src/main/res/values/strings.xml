@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GDG tchat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_key">email</string>
+    <string name="toast_user_not_connected">Veuillez vous connecter!</string>
+    <string name="dialog_connexion_title">Connexion</string>
+    <string name="dialog_connexion_positive_button">Se connecter</string>
+    <string name="dialog_connexion_loading">Connexion...</string>
+    <string name="dialog_connexion_negative_button">Annuler</string>
+    <string name="login_hint">Entrez votre email.</string>
+    <string name="password_hint">Entrez votre mot de passe.</string>
+    <string name="button_send">SEND</string>
+    <string name="message_hint">Entrez votre message...</string>
+    <string name="button_login">LOGIN</string>
+</resources>
